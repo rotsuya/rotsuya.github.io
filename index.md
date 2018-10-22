@@ -4,7 +4,7 @@ title: Ryosuke Otsuya
 ---
 Ryosuke Otsuya
 
-[<i class="ro-note"></i> Note](https://note.mu/rotsuya)
+[<i class="ro ro-note"></i> Note](https://note.mu/rotsuya)
 
 [<i class="fab fa-facebook"></i> Facebook](https://www.facebook.com/rotsuya)
 
@@ -25,9 +25,10 @@ Ryosuke Otsuya
     margin-top: 50px;
 }
 
-.fab {
+.fab, .ro {
     width: 1em;
 }
+
 a {
     color: #212529;
 }
