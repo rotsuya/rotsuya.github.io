@@ -4,6 +4,8 @@ title: Ryosuke Otsuya
 ---
 Ryosuke Otsuya
 
+[<i class="ro-note"></i> Note](https://note.mu/rotsuya)
+
 [<i class="fab fa-facebook"></i> Facebook](https://www.facebook.com/rotsuya)
 
 [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/rotsuya)
